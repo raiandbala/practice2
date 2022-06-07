@@ -12,10 +12,12 @@ public class test{
 	public static void main(String[]args) {
 		new1 obj = new new1();
 		obj.add(4, 7);
-		System.out.println("thank you");
+		System.out.println("shubham");
 		System.out.println("welcome");
 		System.out.println("visit again");
 		System.out.println("Jay Shree Ram");
 		System.out.println("Jay Shree Ram");
+		System.out.println("shubham");
+		System.out.println("shubham");
 	}
 }

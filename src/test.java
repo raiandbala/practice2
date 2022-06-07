@@ -12,5 +12,6 @@ public class test{
 	public static void main(String[]args) {
 		new1 obj = new new1();
 		obj.add(4, 7);
+		System.out.println("thank you");
 	}
 }

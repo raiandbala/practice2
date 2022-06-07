@@ -18,12 +18,21 @@ public class test{
 		}
 //=======
 		System.out.println("shubham");
+//<<<<<<< HEAD
 		System.out.println("welcome");
 		System.out.println("visit again");
 		System.out.println("Jay Shree Ram");
 		System.out.println("Jay Shree Ram");
 		System.out.println("shubham");
 		System.out.println("shubham");
+<<<<<<< HEAD
 //>>>>>>> refs/heads/Integration_branch
+=======
+//=======
+		System.out.println("raj");
+		System.out.println("prays Shree Ramji");
+		System.out.println("prays Shree Hanumanji");
+//>>>>>>> refs/heads/feature1
+>>>>>>> refs/heads/Integration_branch
 	}
 }

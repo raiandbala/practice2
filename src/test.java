@@ -16,5 +16,6 @@ public class test{
 		System.out.println("welcome");
 		System.out.println("visit again");
 		System.out.println("Jay Shree Ram");
+		System.out.println("Jay Shree Ram");
 	}
 }

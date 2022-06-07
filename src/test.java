@@ -14,6 +14,7 @@ public class test{
 		obj.add(4, 7);
 		System.out.println("shubham");
 		System.out.println("raj");
-		System.out.println("prays Shree Ram");
+		System.out.println("prays Shree Ramji");
+		System.out.println("prays Shree Hanumanji");
 	}
 }

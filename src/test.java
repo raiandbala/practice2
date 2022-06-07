@@ -14,5 +14,6 @@ public class test{
 		obj.add(4, 7);
 		System.out.println("thank you");
 		System.out.println("welcome");
+		System.out.println("visit again");
 	}
 }

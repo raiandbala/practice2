@@ -12,5 +12,8 @@ public class test{
 	public static void main(String[]args) {
 		new1 obj = new new1();
 		obj.add(4, 7);
+		for(int i=1; i<=3; i++) {
+			System.out.println('*');
+		}
 	}
 }
